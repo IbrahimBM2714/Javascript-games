@@ -4,9 +4,11 @@ This repository contains 3 games created using JavaScript.
 The aim of this project was to learn about javascript
 
 The 3 games are:
+<h2>Atari Breakout</h2>
     <br>
     ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/209902de-6955-4225-85b4-a4abbd52c6b0)
     <br>
+
 <ul>
   <li>
     atari breakout
@@ -14,7 +16,6 @@ The 3 games are:
   <li>
     picture guessing game
     <br>
-    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/fdd1d7fd-dbaf-4dd8-9dec-e4ef206f7efa)
     <br>
   </li>
   <li>
