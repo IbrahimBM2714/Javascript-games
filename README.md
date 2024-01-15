@@ -7,10 +7,10 @@ The 3 games are:
 <ul>
   <li>
     atari breakout
+  </li>
     <br>
     ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/209902de-6955-4225-85b4-a4abbd52c6b0)
     <br>
-  </li>
   <li>
     picture guessing game
     <br>
