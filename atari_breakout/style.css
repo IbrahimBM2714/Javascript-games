@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.grid{
+    position: relative;
+    width: 560px;
+    height: 300px;
+    border: 1px solid black;
+    margin-top: 70px;
+}
+
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: navy;
+}
+
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(87, 87, 87);
+}
+
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: tomato;
+}
