@@ -9,22 +9,17 @@ The 3 games are:
 ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/60f7525b-b447-4e0d-b809-8b3278bfbbb1)
 <br>
 
-<ul>
-  <li>
-    atari breakout
-  </li>
-  <li>
-    picture guessing game
-    <br>
-    <br>
-  </li>
-  <li>
-    Rock paper and scissors
-    <br>
-    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/6fb7c32c-f44c-49eb-86c7-42c958e7ab42)
-    <br>
-  </li>
-</ul>
+<h2>Picture Guessing Game</h2>
+
+![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/e9c208a0-387a-43cf-8874-ff05a5357d87)
+<br>
+
+<h2>Rock Paper and Scissors</h2>
+
+![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/5f02b839-7f6b-4891-af96-e3d686f49ed9)
+<br>
+
+
 
 If you want to experience this for yourself, you can do so by downloading the code and running the website on your browser using the Live Server extension. For those of you who don't know about Live Server, it is an extension that can be downloaded inside of Vscode.
 ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/8713e592-1d2e-45c2-a4b0-6783bf6f910e)
