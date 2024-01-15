@@ -7,18 +7,18 @@ The 3 games are:
 <ul>
   <li>
     atari breakout
-    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/209902de-6955-4225-85b4-a4abbd52c6b0)
     <br>
+    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/209902de-6955-4225-85b4-a4abbd52c6b0)
   </li>
   <li>
     picture guessing game
-    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/fdd1d7fd-dbaf-4dd8-9dec-e4ef206f7efa)
     <br>
+    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/fdd1d7fd-dbaf-4dd8-9dec-e4ef206f7efa)
   </li>
   <li>
     Rock paper and scissors
-    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/6fb7c32c-f44c-49eb-86c7-42c958e7ab42)
     <br>
+    ![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/6fb7c32c-f44c-49eb-86c7-42c958e7ab42)
   </li>
 </ul>
 
