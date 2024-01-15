@@ -5,7 +5,8 @@ The aim of this project was to learn about javascript
 
 The 3 games are:
 <h2>Atari Breakout</h2>
-![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/07ed70a8-46da-4a61-88a4-8caddc331b1e)
+
+![image](https://github.com/IbrahimBM2714/Javascript-games/assets/115867055/60f7525b-b447-4e0d-b809-8b3278bfbbb1)
 <br>
 
 <ul>
